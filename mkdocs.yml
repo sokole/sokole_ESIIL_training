@@ -1,7 +1,7 @@
 site_name: 'sokole Training OASIS - from ESIIL'
 site_description: 'Central resource for ESIIL researchers'
 site_author: Eric Sokol
-site_url: https://cu-esiil.github.io/sokole_OASIS
+site_url: https://cu-esiil.github.io/sokole_ESIIL_training
 
 # Repository
 repo_name: sokole_ESIIL_training
